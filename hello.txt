@@ -1,5 +1,8 @@
-hello qiao! hello git!
+<<<<<<< HEAD
 hello qiao! hello git!222
+======
+hello qiao! hello git!111
+>>>>>>> hot-fix
 hello qiao! hello git!
 hello qiao! hello git!
 hello qiao! hello git!
